@@ -4,12 +4,11 @@ Este proyecto es una aplicación Java desarrollada con **Spring Boot** y **JPA**
 
 ## 🚀 Tecnologías utilizadas
 
-- Java 17+
+- Java 17
 - Spring Boot
 - Spring Data JPA
-- H2 / MySQL (configurable)
-- Maven / Gradle
-- GitHub
+- SQL Server
+- Maven
 - IntelliJ IDEA
 
 ## 🌐 API utilizada
