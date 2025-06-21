@@ -29,7 +29,7 @@ La aplicación ofrece un menú de consola interactivo con las siguientes opcione
    Lista todos los autores guardados, junto con su información biográfica y los libros que escribió.
 
 4. 🎯 **Listar autores vivos en un año determinado**  
-   Permite ingresar un año y ver qué autores estaban vivos en ese momento (comparando año de nacimiento y fallecimiento).
+   Permite ingresar un año y ver qué autores estaban vivos en ese momento.
 
 5. 🌍 **Listar libros por idioma**  
    Filtra los libros registrados en la base de datos por su idioma (español, inglés, etc.).
